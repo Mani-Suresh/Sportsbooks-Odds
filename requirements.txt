@@ -5,7 +5,5 @@ selenium
 beautifulsoup4
 requests
 seaborn
-csv
 re
-csv
 numpy
