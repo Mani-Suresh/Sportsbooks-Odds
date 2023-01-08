@@ -1,0 +1,11 @@
+jupyterlab
+nbclient
+pandas
+selenium
+beautifulsoup
+requests
+seaborn
+csv
+re
+csv
+numpy
