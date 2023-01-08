@@ -33,6 +33,6 @@ jobs:
 
       - id: jupyter 
         name: Jupyter Notebook Execution
-        run: jupyter execute download.ipynb
+        run: jupyter execute NBA DK.ipynb
         shell: bash
 
