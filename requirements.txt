@@ -6,3 +6,7 @@ beautifulsoup4
 requests
 seaborn
 numpy
+selenium.webdriver.common.keys
+selenium.webdriver.common.by
+selenium.webdriver.support.ui
+selenium.webdriver.support
